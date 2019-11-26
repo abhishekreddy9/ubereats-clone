@@ -1,0 +1,31 @@
+.info-component {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 5px;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: lightgrey;
+}
+
+.info-content {
+  margin-right: 380px;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.info-links a {
+  color: rgb(84, 84, 84);
+  font-size: small;
+}
+
+.info-heading h2 {
+  font-size: 26px;
+  font-weight: bold;
+}
