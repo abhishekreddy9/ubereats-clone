@@ -1,3 +1,45 @@
+@font-face {
+  font-family: "UberMove-Regular";
+  font-display: fallback;
+  src: url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/f65be663c33bad867056c6d2dc04ebe4.woff2")
+      format("woff2"),
+    url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/45248f2f9b0f70c9ecf0a34c8598d6d9.woff")
+      format("woff");
+}
+@font-face {
+  font-family: "UberMove-Medium";
+  font-display: fallback;
+  src: url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/fcb52a268777aa859b5c53bc17630487.woff2")
+      format("woff2"),
+    url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/a2d761fb867329a576acd901b2657604.woff")
+      format("woff");
+}
+@font-face {
+  font-family: "UberMoveText-Regular";
+  font-display: fallback;
+  src: url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/a829752af51129e08130f943eaf3e568.woff2")
+      format("woff2"),
+    url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/2c945e254be87b34b97c753ddf9eb744.woff")
+      format("woff");
+}
+@font-face {
+  font-family: "UberMoveText-Medium";
+  font-display: fallback;
+  src: url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/f2eaaf0bc08903f5915b809ee80b04c7.woff2")
+      format("woff2"),
+    url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/90012306e740f7bf0772b94a28cd9926.woff")
+      format("woff");
+}
+
 .container {
   width: 1200px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.full-width {
+  width: 100%;
 }
