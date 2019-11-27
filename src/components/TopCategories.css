@@ -1,0 +1,28 @@
+.TopCategoriesHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.TopCategoriesSection {
+  display: flex;
+  justify-content: center;
+  padding-top: 32px;
+  height: 280;
+}
+
+.TopCategoriestop {
+  display: flex;
+  justify-content: space-between;
+}
+
+.TopCategoriesMainSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 360px;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: lightgrey;
+}

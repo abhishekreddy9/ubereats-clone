@@ -16,8 +16,9 @@
 
 .info-content {
   margin-right: 380px;
-  font-size: 18px;
-  font-weight: 100;
+  font-size: 16px;
+  font-family: UberMoveText-Regular;
+  line-height: 26px;
 }
 
 .info-links a {
@@ -28,4 +29,6 @@
 .info-heading h2 {
   font-size: 26px;
   font-weight: bold;
+  font-family: UberMoveText-Medium;
+  line-height: 26px;
 }

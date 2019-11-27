@@ -1,0 +1,44 @@
+[
+  {
+    "title": "American near me",
+    "categoryName": "American",
+    "slug": "american",
+    "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/a5aa9bbba0172134449b4ad48611d92b",
+    "url": { "pathname": "/en-IN/american-near-me/", "search": "" }
+  },
+  {
+    "title": "Arabian near me",
+    "categoryName": "Arabian",
+    "slug": "arabian",
+    "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/9ce7071e3e974db190a1cefe9a7b6001",
+    "url": { "pathname": "/en-IN/arabian-near-me/", "search": "" }
+  },
+  {
+    "title": "Bakery near me",
+    "categoryName": "Bakery",
+    "slug": "bakery",
+    "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/d1164714a259d180471e20254b8211f7",
+    "url": { "pathname": "/en-IN/bakery-near-me/", "search": "" }
+  },
+  {
+    "title": "BBQ near me",
+    "categoryName": "BBQ",
+    "slug": "bbq",
+    "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/eeb45491416e3becc1961d921e667e5d",
+    "url": { "pathname": "/en-IN/bbq-near-me/", "search": "" }
+  },
+  {
+    "title": "Biryani near me",
+    "categoryName": "Biryani",
+    "slug": "biryani",
+    "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/cuisine-dish-supertype/Biryani.png",
+    "url": { "pathname": "/en-IN/biryani-near-me/", "search": "" }
+  },
+  {
+    "title": "Breakfast and brunch near me",
+    "categoryName": "Breakfast and Brunch",
+    "slug": "breakfast-and-brunch",
+    "imageUrl": "https://duyt4h9nfnj50.cloudfront.net/sku/0bc9ca19a02e3bd03f2395c8cf8a3e0c",
+    "url": { "pathname": "/en-IN/breakfast-and-brunch-near-me/", "search": "" }
+  }
+]
